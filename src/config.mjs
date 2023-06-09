@@ -7,9 +7,9 @@ const CONFIG = {
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'Tharum — Musings from Cambodia',
+  title: 'kokitree — Forging digital connections',
   description:
-    '🚀 Tech with Tharum',
+    '🚀 Launch & grow your blog',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
