@@ -1,7 +1,7 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'AstroWind',
+  name: 'kokitree',
 
   origin: 'https://astrowind.vercel.app',
   basePathname: '/',
