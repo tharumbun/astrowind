@@ -23,10 +23,6 @@ export const headerData = {
           href: '#',
         },
         {
-          text: 'Pricing',
-          href: '#',
-        },
-        {
           text: 'About us',
           href: '#',
         },
@@ -43,10 +39,6 @@ export const headerData = {
           href: getPermalink('/privacy'),
         },
       ],
-    },
-    {
-      text: 'Widgets',
-      href: '#',
     },
     {
       text: 'Blog',
