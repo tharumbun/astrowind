@@ -6,11 +6,11 @@ export const headerData = {
       text: 'Landing',
       links: [
         {
-          text: 'Sass',
+          text: 'Reviews',
           href: getPermalink('/landing/reviews'),
         },
         {
-          text: 'Startup',
+          text: 'How to',
           href: getPermalink('/landing/howto'),
         },
       ],
