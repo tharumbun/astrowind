@@ -51,13 +51,6 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
-      links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-      ],
-    },
-    {
       title: 'Platform',
       links: [
         { text: 'Atom', href: '#' },
