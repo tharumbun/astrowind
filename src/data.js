@@ -30,14 +30,7 @@ export const headerData = {
           text: 'Contact',
           href: '#',
         },
-        {
-          text: 'Terms',
-          href: getPermalink('/terms'),
-        },
-        {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
-        },
+
       ],
     },
     {
