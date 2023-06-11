@@ -7,11 +7,11 @@ export const headerData = {
       links: [
         {
           text: 'Reviews',
-          href: getPermalink('/landing/reviews'),
+          href: getPermalink('/category/reviews'),
         },
         {
           text: 'How to',
-          href: getPermalink('/landing/howto'),
+          href: getPermalink('/category/howto'),
         },
       ],
     },
