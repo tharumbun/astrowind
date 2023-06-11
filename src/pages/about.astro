@@ -8,7 +8,7 @@ import CallToAction from '~/components/widgets/CallToAction.astro';
 import { headerData } from '~/data';
 
 const meta = {
-  title: "About",
+  title: "Startup Landing Page",
 };
 ---
 
@@ -24,17 +24,22 @@ const meta = {
 
   <!-- Hero2 Widget ******************* -->
 
-
+  <Hero
+    callToAction={{ text: 'Get template', href: 'https://github.com/onwidget/astrowind', icon: 'tabler:download' }}
+    callToAction2={{ text: 'Learn more', href: '#features' }}
+  >
     <Fragment slot="title">
-    Philosophy: Simplicity, Best Practices and High Performance
+      Free template for <span class="hidden lg:inline">create your website <br />with</span>
+      <span class="text-accent dark:text-white highlight"> Astro 2.0</span> + Tailwind CSS
     </Fragment>
 
     <Fragment slot="subtitle">
       <span class="hidden sm:inline">
-        ...</span
+        <span class="font-semibold">AstroWind</span> is a free, customizable and production-ready template for Astro 2.0 +
+        Tailwind CSS.</span
       >
-      <span class="block mb-1 sm:hidden font-bold text-blue-600">for Startups,
-      Small Business, Landing Pages & Blogs.
+      <span class="block mb-1 sm:hidden font-bold text-blue-600">AstroWind: Production-ready.</span> Suitable for Startups,
+      Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.
     </Fragment>
 
 
