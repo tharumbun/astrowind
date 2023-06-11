@@ -38,26 +38,7 @@ export const headerData = {
   
 export const footerData = {
   links: [
-    {
-      title: 'Platform',
-      links: [
-        { text: 'Atom', href: '#' },
-      ],
-    },
-    {
-      title: 'Support',
-      links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-      ],
-    },
-    {
-      title: 'Company',
-      links: [
-        { text: 'About', href: '#' },
-        { text: 'Blog', href: '#' },
-      ],
-    },
+
   ],
   secondaryLinks: [
     { text: 'Terms', href: getPermalink('/terms') },
