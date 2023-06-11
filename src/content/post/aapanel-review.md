@@ -1,8 +1,9 @@
 ---
 title: "aaPanel review"
 date: "2023-05-19"
-categories: 
-  - "latest"
+category: Web builders
+tags:
+  - aaPanel
 ---
 
 [aaPanel](https://www.aapanel.com/new/index.html) is a free and open-source web hosting control panel that is designed to make it easy to manage your websites and servers. It is based on the popular open-source control panel, DirectAdmin, and it offers a wide range of features that make it a powerful and versatile tool for web hosting professionals.
