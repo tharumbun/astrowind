@@ -12,6 +12,8 @@ Change is an inevitable part of life, and as a blogger, I recently found myself 
 
 WordPress (celebrating its 20 years powering most websites on the Internet) is a great platform with a lot of features and flexibility, but I've recently decided to move to Astro.
 
+Powered by Astro, this kokitree site lives on Github and (was) delployed to Cloudflare Page. Simply decoupled.
+
 In this blog post, I will share my motivations behind this shift and the reasons why I believe Astro is the right choice for the next chapter of my blogging adventure.
 
 **Speed and Performance**
