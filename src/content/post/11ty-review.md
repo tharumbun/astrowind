@@ -1,8 +1,9 @@
 ---
 title: "11ty review"
 date: "2023-05-19"
-categories: 
-  - "latest"
+category: Reviews
+tags:
+  - 11ty
 ---
 
 11ty (also known as eleventy) is a static site generator that is designed to be simple and powerful. It is written in JavaScript and uses a template language called Nunjucks. [11ty](https://www.11ty.dev/) is a great option for developers who want to create static websites without the hassle of a traditional CMS.
