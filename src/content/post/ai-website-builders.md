@@ -1,8 +1,7 @@
 ---
 title: "AI website builders"
 date: "2023-05-14"
-categories: 
-  - "latest"
+category: Web builders
 ---
 
 An AI website builder is a tool that uses artificial intelligence (AI) to help you create a website. AI website builders can be used by anyone, regardless of their coding skills. They are designed to make the process of creating a website as easy and as fast as possible.
