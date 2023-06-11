@@ -1,9 +1,9 @@
 ---
 title: "How to choose a Ghost host"
 date: "2023-05-10"
-categories: 
-  - "hosting"
-  - "latest"
+category: howto
+tags:
+  - Ghost
 ---
 
 There are many factors to consider when choosing a Ghost CMS host, such as:
