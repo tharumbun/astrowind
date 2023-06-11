@@ -17,6 +17,8 @@ In this blog post, I will share my motivations behind this shift and the reasons
 **Speed and Performance**
 One of the primary factors that drove me towards Astro was its exceptional speed and performance. As a blogger, I understand the significance of delivering a seamless browsing experience to my readers. With Astro's static site generator and server-side rendering capabilities, my blog's pages load instantly, ensuring that visitors can quickly access the content they desire without frustrating delays. This improved performance not only enhances user satisfaction but also contributes to better search engine rankings.
 
+You can see the performance report on [Google PageSpeed](https://pagespeed.web.dev/analysis/https-kokitree-com/3hdt8gsneq?form_factor=desktop)
+
 **Simplified Development Workflow**
 Astro offers a streamlined development workflow that simplifies the process of building and maintaining a blog. Its intuitive and component-based architecture allows for efficient code reuse and modular design, making it easier to create visually appealing and interactive elements. By leveraging Astro's built-in optimization features, I can focus on crafting engaging content while ensuring that my blog remains optimized for various devices and browsers.
 
