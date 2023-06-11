@@ -3,7 +3,7 @@ import defaultImage from './assets/images/default.png';
 const CONFIG = {
   name: 'kokitree',
 
-  origin: 'https://astrowind.vercel.app',
+  origin: 'https://kokitree.com/',
   basePathname: '/',
   trailingSlash: false,
 
