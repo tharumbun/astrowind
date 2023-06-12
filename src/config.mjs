@@ -9,7 +9,7 @@ const CONFIG = {
 
   title: 'kokitree — Forging digital connections',
   description:
-    '🚀 Launch & grow your blog',
+    'Launch & grow your blog',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
