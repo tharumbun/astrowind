@@ -1,5 +1,7 @@
 ---
 title: "11ty review"
+description: 11ty is a static site generator
+excerpt: 11ty is a static site generator that is designed to be simple and powerful.
 date: "2023-05-19"
 category: Reviews
 tags:
