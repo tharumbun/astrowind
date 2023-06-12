@@ -29,7 +29,7 @@ const CONFIG = {
 
   blog: {
     disabled: false,
-    postsPerPage: 4,
+    postsPerPage: 11,
 
     post: {
       permalink: 'posts/%slug%', // Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
