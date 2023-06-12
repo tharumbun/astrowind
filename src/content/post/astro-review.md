@@ -39,6 +39,8 @@ If you are looking for a fast and SEO-friendly web framework, then Astro is a gr
 
 A personal website is a great way to share your thoughts, ideas, and projects with the world. You can use Astro to create a website that is both stylish and functional. You can add your own content, images, and videos, and you can customize the look and feel of your website to match your personality.
 
+Here's a very [nice personal blog/portfolio site by a Taiwanese American, Anna Hsu](https://annahsu.dev/).
+
 **Blog**
 
 A blog is a great way to share your thoughts, ideas, and experiences with others. You can use Astro to create a blog that is both informative and engaging. You can add your own content, images, and videos, and you can customize the look and feel of your blog to match your personality.
