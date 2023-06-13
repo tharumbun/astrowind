@@ -63,7 +63,7 @@ Optimize the website's technical infrastructure to ensure that it is easily craw
 
 **Backlink building**
 
-[Obtain high-quality backlinks](_wp_link_placeholder) to the client's website from other relevant websites. This will help to improve the website's authority and visibility in SERPs.
+Obtain high-quality backlinks to the client's website from other relevant websites. This will help to improve the website's authority and visibility in SERPs.
 
 **Reporting and analysis**
 
