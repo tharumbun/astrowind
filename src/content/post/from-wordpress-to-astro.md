@@ -10,7 +10,7 @@ tags:
 
 Embracing a New Journey: Moving from WordPress to Astro
 
-Change is an inevitable part of life, and as a blogger, I recently found myself at a crossroads where I felt the need to explore new possibilities. After years of using WordPress as my go-to platform for kokitree, I have made the decision to embark on a fresh journey by transitioning my beloved blog to Astro. 
+Change is an inevitable part of life, and as a blogger, I recently found myself at a crossroads where I felt the need to explore new possibilities. After years of using WordPress as my go-to platform for kokitree, I have made the decision to embark on a fresh journey by transitioning my beloved blog to [Astro](https://kokitree.com/posts/astro-review/). 
 
 WordPress (celebrating its 20 years powering most websites on the Internet) is a great platform with a lot of features and flexibility, but I've recently decided to move to Astro.
 
