@@ -1,6 +1,6 @@
 ---
 title: "Moving from WordPress to Astro"
-description: Moving from WordPress to Astro
+description: Change is an inevitable part of life
 excerpt: Change is an inevitable part of life, and as a blogger, I recently
 date: "2023-06-11"
 category: howto
