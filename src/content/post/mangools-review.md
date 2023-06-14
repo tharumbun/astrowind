@@ -11,6 +11,8 @@ In today's highly competitive online world, bloggers face the challenge of stand
 
 [Mangools](https://mangools.com/) is a suite of SEO tools that can help bloggers improve their website's ranking in search engine results pages (SERPs). The tools include keyword research, competitor analysis, backlink analysis, rank tracking, and SERP analysis.
 
+According to reviews on Capterra and Trustpilot, Mangools is known for its user-friendly interface and effective keyword research tool, KWFinder. Many users have given positive feedback about Mangools, with some calling it the best solution to SEO their website. According to a review on G2.com, Mangools offers robust tools for SEO professionals and website owners like us. The tools are easy to use, and the data is accurate and reliable. The pricing is also reasonable compared to other SEO tools on the market. 
+
 Here are some of the reasons why bloggers should use Mangools:
 
  It's affordable. Mangools is much more affordable than other SEO tools on the market. The basic plan starts at just $29.90 per month, and the premium plan is only $49.90 per month.
