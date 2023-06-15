@@ -1,7 +1,7 @@
 ---
 title: "WordPress hosting server panels"
-description: 11ty is a static site generator that is designed to be simple and powerful
-excerpt: 11ty is a static site generator that is designed to be simple and powerful
+description: A WordPress hosting control panel is a software application that allows you to manage your WordPress website
+excerpt: A WordPress hosting control panel is a software application that allows you to manage your WordPress website
 date: "2023-05-11"
 category: Reviews
 tags:
