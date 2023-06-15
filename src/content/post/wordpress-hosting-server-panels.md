@@ -1,7 +1,5 @@
 ---
 title: "WordPress hosting server panels"
-description: There are many different WordPress hosting control panels available
-excerpt: There are many different WordPress hosting control panels available
 date: "2023-05-11"
 categories: 
   - "hosting"
