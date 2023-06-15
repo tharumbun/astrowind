@@ -1,5 +1,7 @@
 ---
 title: "WP Engine review"
+description: This company specializes in offering managed WordPress hosting for websites of all sizes
+excerpt: This company specializes in offering managed WordPress hosting for websites of all sizes
 date: "2023-05-17"
 categories: 
   - "latest"
