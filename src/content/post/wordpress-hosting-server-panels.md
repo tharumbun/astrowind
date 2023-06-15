@@ -1,5 +1,7 @@
 ---
 title: "WordPress hosting server panels"
+description: 11ty is a static site generator that is designed to be simple and powerful
+excerpt: 11ty is a static site generator that is designed to be simple and powerful
 date: "2023-05-11"
 category: Reviews
 tags:
