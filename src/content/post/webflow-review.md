@@ -1,5 +1,7 @@
 ---
 title: "Webflow review"
+description: A cloud-based website builder that allows users to create and design websites without any coding knowledge
+excerpt: A cloud-based website builder that allows users to create and design websites without any coding knowledge
 date: "2023-05-10"
 categories: 
   - "latest"
