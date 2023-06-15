@@ -2,7 +2,8 @@
 title: "WordPress hosting server panels"
 date: "2023-05-11"
 category: Reviews
-
+tags:
+  - WordPress
 ---
 
 A WordPress hosting control panel is a software application that allows you to manage your WordPress website from a single location. It provides you with a graphical user interface (GUI) that makes it easy to perform tasks such as creating new pages, managing users, and updating your WordPress software.
