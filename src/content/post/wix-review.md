@@ -3,7 +3,6 @@ title: "Wix review"
 description: Wix is a website builder that allows users to create and manage their own websites
 excerpt: Wix is a website builder that allows users to create and manage their own websites
 date: "2023-05-19"
-date: "2023-05-05"
 category: Reviews
 tags:
   - Wix
