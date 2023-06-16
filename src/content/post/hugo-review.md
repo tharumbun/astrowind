@@ -87,5 +87,7 @@ WordPress: WordPress is versatile and can be used for a wide range of websites, 
 If you're looking for a fast, powerful, and flexible static site generator, then Hugo is a great option. It's a great choice for creating high-quality websites that are both fast and visually appealing.
 
 Also good to read:
-
+[The “staying with Hugo” post, three years later](https://www.brycewray.com/posts/2022/07/staying-hugo-post-three-years-later/)
+[Eleventy and Hugo: comparing and contrasting](https://www.brycewray.com/posts/2020/12/eleventy-hugo-comparing-contrasting/)
+[Hugo vs Astro - which static site generator](https://onebite.dev/hugo-vs-astro-which-static-site-generator-to-choose-in-2023/)
 [How to Create Your First Hugo Blog: a Practical Guide](https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/)
