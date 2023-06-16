@@ -1,9 +1,9 @@
 ---
 title: "Hugo review"
 date: "2023-05-14"
-categories: 
-  - "latest"
-  - "web-builders"
+category: Reviews
+tags:
+  - Hugo
 ---
 
 ### Hugo: a fast, powerful, and flexible static site Generator
