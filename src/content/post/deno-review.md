@@ -1,6 +1,6 @@
 ---
 title: "Deno review"
-date: "2023-05-14"
+date: "2023-06-16"
 category: Reviews
 tags:
   - Deno
