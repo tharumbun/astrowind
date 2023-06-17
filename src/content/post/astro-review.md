@@ -1,8 +1,11 @@
 ---
-title: "Astro: the best static site generator for blogging"
-date: "2023-05-21"
-categories: 
-  - "web-builders"
+title: "Astro review"
+description: It is a static site generator that can be used to create websites that are both fast and SEO-friendly
+excerpt: It is a static site generator that can be used to create websites that are both fast and SEO-friendly
+date: "2023-05-19"
+category: Reviews
+tags:
+  - Astro
 ---
 
 Astro is a new web framework that is designed for speed. It is a static site generator that can be used to create websites that are both fast and SEO-friendly. [Astro](https://astro.build/) is built on top of React, but it can also be used with other UI frameworks like Preact, Vue, or Svelte.
