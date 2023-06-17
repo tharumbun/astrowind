@@ -1,5 +1,5 @@
 ---
-title: "Domain name registrar"
+title: "Domain name registrars"
 description: There are several reputable domain name registrars
 excerpt: There are several reputable domain name registrars
 date: "2023-06-17"
@@ -31,7 +31,7 @@ One of the standout features of Porkbun is its affordable pricing structure. Whi
  Customer support: If you ever have any problems with your domain name, you will need to be able to get help from the registrar's customer support team. Be sure to choose a registrar with a good reputation for customer support.
 
 7. Cloudflare Registrar:
-Cloudflare Registrar is a domain name registrar that offers a variety of features and services, including domain name registration, domain privacy, and DNSSEC. Cloudflare is known for its security and performance, and its Registrar service is no exception.
+[Cloudflare Registrar](https://www.cloudflare.com/products/registrar/) is a domain name registrar that offers a variety of features and services, including domain name registration, domain privacy, and DNSSEC. Cloudflare is known for its security and performance, and its Registrar service is no exception.
 
 Here are some of the features and benefits of Cloudflare Registrar:
 
