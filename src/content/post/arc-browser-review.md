@@ -69,4 +69,57 @@ Here are some additional factors to consider when choosing a browser:
 * **Performance:** Consider the browser's performance, such as its speed and how well it handles complex web pages.
 * **User interface:** Consider the browser's user interface and how easy it is to use.
 
+**Arc vs Safari**
+
+Arc and Safari are both powerful browsers with their own strengths and weaknesses. Ultimately, the best browser for you will depend on your individual needs and preferences.
+
+Here is a comparison of the two browsers:
+
+Arc
+
+Pros:
+Fast and efficient
+Secure
+Customizable
+Innovative features
+Cons:
+Privacy concerns
+Limited extensions
+Not as widely used
+Safari
+
+Pros:
+Fast and efficient
+Secure
+Integrated with Apple ecosystem
+Wide range of extensions
+Cons:
+Not as customizable
+Lacks some innovative features
+
+**Is it safe to use ARC browser?**
+Arc Browser is a safe browser, but it is important to be aware of its privacy practices before using it. Here are some tips for using Arc Browser safely:
+
+Create a strong password for your Arc Browser account.
+Enable two-factor authentication for your Arc Browser account.
+Be careful about what information you share on websites that you visit using Arc Browser.
+Use a VPN when using Arc Browser to connect to public Wi-Fi networks.
+If you are concerned about your privacy, you may want to consider using a different browser, such as Firefox or Brave. These browsers have a better reputation for privacy than Arc Browser. 
+
+
+who are the co-founders of Arc browser?
+View other drafts
+
+**Who are the co-founders of Arc Browser?**
+
+The co-founders of Arc Browser are Josh Miller and Hursh Agrawal.
+
+[Josh Miller](https://www.crunchbase.com/person/josh-miller) is the CEO and co-founder of The Browser Company, the company behind Arc Browser. He has over 15 years of experience in the tech industry, and has worked at companies such as Google, Facebook, and Twitter.
+
+[Hursh Agrawal](http://www.hurshagrawal.com/) is the CTO and co-founder of The Browser Company. He has over 10 years of experience in the tech industry, and has worked at companies such as Amazon, Microsoft, and Yahoo.
+
+Miller and Agrawal met in 2018, and they both shared a common frustration with the state of web browsers. They felt that the current browsers were too slow, too cluttered, and too privacy-invading. They decided to start The Browser Company to build a better browser, one that would be fast, efficient, secure, and private.
+
+Arc Browser was released in 2022, and it has quickly gained popularity. The browser has been praised for its speed, its efficiency, its security, and its privacy features. Arc Browser is still under development, but it has the potential to be a major player in the web browser market.
+
 Arc is a promising new web browser that offers a number of unique features. It is still in its early stages, but it has the potential to be a major player in the web browser market. If you are looking for a new browser to try, Arc is worth checking out.
