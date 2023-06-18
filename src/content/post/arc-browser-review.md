@@ -1,7 +1,7 @@
 ---
 title: "Arc web browser review"
-description: 11ty is a static site generator that is designed to be simple and powerful
-excerpt: 11ty is a static site generator that is designed to be simple and powerful
+description: Two things that interest me the most about Arc browser is its minimalistic user interface and ad-blocking feature
+excerpt: Two things that interest me the most about Arc browser is its minimalistic user interface and ad-blocking feature
 date: "2023-06-18"
 category: Reviews
 tags:
