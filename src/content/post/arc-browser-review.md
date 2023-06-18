@@ -8,6 +8,13 @@ tags:
   - Arc Browser
 ---
 
+As a blogger, you may have a few web browser installed on your computer. One of them is your default browser. For many years, Mozilla Firefox and Google Chrome are two top browsers I've used. Recently, there is a new browser called Arc. After signing up for an invite to test its beta version, I have a chance to have it. 
+
+Two things that interest me the most about Arc browser is its minimalistic user interface (distraction-free) and ad-blocking feature. 
+Check out [Arc from Browser Company of New York](https://arc.net/).
+
+Read on to find out more.
+
 **Arc Browser Review**
 
 Arc is a new web browser that was recently released for macOS. It is designed to be a more efficient and productive way to browse the web. Arc has a number of unique features that set it apart from other browsers, including:
