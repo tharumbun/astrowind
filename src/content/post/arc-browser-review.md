@@ -110,7 +110,7 @@ If you are concerned about your privacy, you may want to consider using a differ
 who are the co-founders of Arc browser?
 View other drafts
 
-**Who are the co-founders of Arc Browser?**
+**Who is behind Arc browser?**
 
 The co-founders of Arc Browser are Josh Miller and Hursh Agrawal.
 
