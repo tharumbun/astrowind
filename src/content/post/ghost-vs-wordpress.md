@@ -1,8 +1,12 @@
 ---
 title: "Ghost vs. WordPress"
-date: "2023-04-28"
-categories: 
-  - "latest"
+description: WordPress and Ghost are both popular content management systems
+excerpt: WordPress and Ghost are both popular content management systems
+date: "2023-05-19"
+category: Reviews
+tags:
+  - Ghost
+  - WordPress
 ---
 
 WordPress and Ghost are both popular content management systems (CMS) that can be used to create blogs, websites, and online stores. However, there are some key differences between the two platforms.
