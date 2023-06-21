@@ -11,7 +11,13 @@ WordPress is the most popular CMS in the world, powering over 40% of the web. It
 
 [Ghost is a newer CMS that is designed specifically for blogging](https://kokitree.com/posts/ghost-review/). It is a more lightweight and streamlined platform than WordPress, making it easier to use and manage. Ghost also has a focus on performance, and it is known for being one of the fastest CMS platforms available. However, Ghost is not as feature-rich as WordPress, and it has a smaller community of developers and users.
 
-Which platform is right for you? It depends on your needs and preferences. If you are looking for a powerful and flexible CMS with a wide range of features, then WordPress is a good choice. If you are looking for a simpler and more streamlined platform that is easy to use and manage, then Ghost is a good option.
+Both Ghost and WordPress have their strengths and weaknesses, and choosing between them can be a difficult decision. Ghost is a newer platform that is focused on providing a simple, powerful publishing experience. Its editor is designed to make writing and formatting posts as easy as possible, and it offers a range of customization options to help users create the perfect website.
+
+WordPress, on the other hand, is a more established platform that has been around for over a decade. It is incredibly versatile and can be used to create everything from simple blogs to complex e-commerce sites. WordPress offers a huge range of themes and plugins that can be used to customize your site, and it is supported by a large community of developers who are constantly creating new tools and features. When it comes to choosing between Ghost and WordPress, it really depends on what you are looking for in a blogging platform.
+
+Which platform is right for you? 
+
+It depends on your needs and preferences. If you are looking for a powerful and flexible CMS with a wide range of features, then WordPress is a good choice. If you are looking for a simpler and more streamlined platform that is easy to use and manage, then Ghost is a good option.
 
 Here is a more detailed comparison of WordPress and Ghost:
 
@@ -31,21 +37,29 @@ Cons:
 - Security vulnerabilities can be a problem
 
 ### Ghost
+Ghost is a free and open-source content management system (CMS) that is specifically designed for bloggers and writers. It was launched in 2013 as a Kickstarter campaign and has since gained a lot of popularity among bloggers and writers who are looking for a simple and easy-to-use platform to publish their content.
 
 Pros:
 
 - Lightweight and streamlined platform
 - Easy to use and manage
+Ghost has a simple and intuitive user interface that makes it easy for users to write and publish their content. It also has a built-in editor that allows users to format their content with ease.
 - Fast performance
+  Ghost is known for its speed and performance, which makes it a great choice for bloggers and writers who want a fast and reliable platform to publish their content.
 - Focus on security and privacy
+- SEO-friendly
+  Ghost is designed to be SEO-friendly, which means that it is optimized for search engines and can help users to improve their search engine rankings.
+- Ghost offers a range of customization options, including themes and plugins, that allow users to customize their blogs to suit their needs.
 
 Cons:
 
 - Not as feature-rich as WordPress
+Ghost is designed specifically for blogging and writing, which means that it has limited functionality compared to other CMSs like WordPress.
 - Smaller community of developers and users
+Ghost has a smaller community compared to other CMSs like WordPress, which means that it can be harder to find help and support when needed.
 - More expensive than WordPress
 
-Ultimately, the best way to decide which platform is right for you is to try them both out and see which one you prefer.
+Ghost is a great choice for bloggers and writers who are looking for a simple and easy-to-use platform to publish their content. While it may have some limitations compared to other CMSs like WordPress, its speed, ease of use, and SEO-friendliness make it a popular choice among bloggers and writers.
 
 There is no doubt that WordPress dominates the blogging and online publishing world for many years. WordPress as a CMS powers nearly half of the Internet’s websites. So what’s the point to compare WordPress against Ghost, a new, free, and open-source blogging platform?
 
