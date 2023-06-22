@@ -20,9 +20,9 @@ If you are looking for a CMS for your static site generator website, I recommend
 
 There are a number of simple CMSs for static site generator websites. Some of the most popular include:
 
-* **Statico** is a simple, lightweight CMS that is easy to use and customize. It is compatible with a variety of static site generators, including Jekyll, Hugo, and Eleventy.
+* **TinaCMS** (formerly Forestry.io) is a headless CMS that is backed by Git. This means that Tina's content is stored in a Git repository, which allows developers and content creators to collaborate seamlessly. [Tina](https://tina.io/) also provides a custom visual editing experience that is perfectly tailored to your site..
 
-* **StaticJsCMS** is a git-based CMS that allows you to manage your content from a single location. It is compatible with a variety of static site generators, including Jekyll, Hugo, and Eleventy.
+* **Static CMS** is a git-based CMS that allows you to manage your content from a single location. It is compatible with a variety of static site generators, including Jekyll, Hugo, and Eleventy.
 
 * **Siteleaf** is a more robust CMS that offers a wider range of features, such as user management, multi-lingual support, and e-commerce integration. It is compatible with Jekyll, and can be used with other static site generators through its headless API.
 
