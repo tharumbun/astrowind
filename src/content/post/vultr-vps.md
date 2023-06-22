@@ -1,7 +1,7 @@
 ---
 title: "Vultr VPS review"
-description: 11ty is a static site generator that is designed to be simple and powerful
-excerpt: 11ty is a static site generator that is designed to be simple and powerful
+description: Vultr is one of the most popular cloud hosting providers on the market
+excerpt: Vultr is one of the most popular cloud hosting providers on the market
 date: "2023-03-22"
 category: Reviews
 tags:
