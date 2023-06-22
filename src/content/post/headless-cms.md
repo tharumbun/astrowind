@@ -14,6 +14,8 @@ There are a number of benefits to using a headless CMS for your static site gene
 
 A headless CMS (Content Management System) is a backend-only content management system that focuses solely on content creation, management, and distribution. Unlike traditional CMS platforms, a headless CMS does not have a built-in frontend presentation layer. Instead, it provides content via an API (Application Programming Interface), allowing developers to deliver content to multiple frontend channels such as websites, mobile apps, smart devices, and more.
 
+[WordPress as a Headless CMS?](https://kokitree.com/posts/headless-cms-wordpress)
+
 The term "headless" refers to the decoupling of the content management backend (the "head") from the frontend presentation layer (the "body"). This decoupling enables greater flexibility and agility in delivering content across various platforms and devices.
 
 If you are looking for a CMS for your static site generator website, I recommend that you consider using a headless CMS.
@@ -31,7 +33,7 @@ There are a number of simple CMSs for static site generator websites. Some of th
 * **Contentful**
 * **Prismic**
 * **GraphCMS**
-* **Directus**
+* [**Directus**](https://kokitree.com/posts/directus-review)
 
 When choosing a CMS for your static site generator website, it is important to consider your needs and requirements. If you are looking for a simple, lightweight CMS that is easy to use, then Statico or StaticJsCMS may be a good option. If you need a more robust CMS with a wider range of features, then Siteleaf or Sanity.io may be a better choice.
 
