@@ -1,0 +1,30 @@
+---
+title: "Headless CMSs for static websites"
+description: Some simple CMSs for static websites you should know
+excerpt: Some simple CMSs for static websites you should know
+date: "2023-06-22"
+category: Reviews
+tags:
+  - Sanity
+---
+
+There are a number of simple CMSs for static site generator websites. Some of the most popular include:
+
+* **Statico** is a simple, lightweight CMS that is easy to use and customize. It is compatible with a variety of static site generators, including Jekyll, Hugo, and Eleventy.
+
+* **StaticJsCMS** is a git-based CMS that allows you to manage your content from a single location. It is compatible with a variety of static site generators, including Jekyll, Hugo, and Eleventy.
+
+* **Siteleaf** is a more robust CMS that offers a wider range of features, such as user management, multi-lingual support, and e-commerce integration. It is compatible with Jekyll, and can be used with other static site generators through its headless API.
+
+* **Sanity.io** is a cloud-based CMS that offers a wide range of features and integrations. It is compatible with a variety of static site generators, including Jekyll, Hugo, and Eleventy.
+
+When choosing a CMS for your static site generator website, it is important to consider your needs and requirements. If you are looking for a simple, lightweight CMS that is easy to use, then Statico or StaticJsCMS may be a good option. If you need a more robust CMS with a wider range of features, then Siteleaf or Sanity.io may be a better choice.
+
+Here are some additional factors to consider when choosing a CMS for your static site generator website:
+
+* **Ease of use:** How easy is it to use the CMS? Does it have a user-friendly interface?
+* **Features:** What features are important to you? Do you need user management, multi-lingual support, or e-commerce integration?
+* **Compatibility:** Is the CMS compatible with the static site generator you are using?
+* **Cost:** How much does the CMS cost? Are there any free or open source options available?
+
+Once you have considered these factors, you can start to narrow down your choices and choose the CMS that is right for you.
