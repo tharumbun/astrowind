@@ -1,8 +1,11 @@
 ---
-title: "Vultr VPS"
+title: "Vultr VPS review"
+description: 11ty is a static site generator that is designed to be simple and powerful
+excerpt: 11ty is a static site generator that is designed to be simple and powerful
 date: "2023-03-22"
-categories: 
-  - "latest"
+category: Reviews
+tags:
+  - Vultr
 ---
 
 Vultr is a cloud hosting provider that offers Virtual Private Servers (VPS) to businesses and individuals. It is one of the most popular cloud hosting providers on the market, thanks to its reliable infrastructure and competitive pricing.
