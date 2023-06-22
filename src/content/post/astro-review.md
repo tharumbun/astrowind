@@ -206,6 +206,8 @@ https://github.com/lonekorean/wordpress-export-to-markdown
 
 **Also good to read:**
 
+[Astro Crash Course](https://littlesticks.dev/courses/astro-crash-course/) 
+
 [Astro.js and WordPress as an API](https://darko.io/posts/astrojs-and-wordpress-as-an-api/)
 
 [Creating an Astro Site: Beginners’ Tutorial](https://dev.to/askrodney/creating-an-astro-site-beginners-tutorial-40pf)
