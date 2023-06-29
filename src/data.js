@@ -10,7 +10,7 @@ export const headerData = {
           href: getPermalink('/category/reviews'),
         },
         {
-          text: 'How to',
+          text: 'Web builders',
           href: getPermalink('/category/web-builders'),
         },
         {
