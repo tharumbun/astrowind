@@ -1,12 +1,10 @@
 ---
 title: "Craft CMS vs Webflow"
-date: "2023-05-10"
-categories: 
-  - "latest"
-  - "web-builders"
+description: Craft CMS vs Webflow: Which One is Right for You?
+excerpt: Craft CMS vs Webflow: Which One is Right for You?
+date: "2023-05-19"
+category: Web Builders
 ---
-
-Craft CMS vs Webflow: Which One is Right for You?
 
 Craft CMS and Webflow are both powerful platforms that can be used to create beautiful and professional websites. However, they have different strengths and weaknesses, so it's important to choose the right one for your needs.
 
