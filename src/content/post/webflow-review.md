@@ -3,9 +3,7 @@ title: "Webflow review"
 description: A cloud-based website builder that allows users to create and design websites without any coding knowledge
 excerpt: A cloud-based website builder that allows users to create and design websites without any coding knowledge
 date: "2023-05-10"
-categories: 
-  - "latest"
-  - "web-builders"
+categories: "web-builders"
 ---
 
 Webflow is a cloud-based website builder that allows users to create and design websites without any coding knowledge. It offers a drag-and-drop interface, as well as a variety of templates and tools to help users create their own unique websites.
