@@ -1,9 +1,9 @@
 ---
 title: "Cloudways review"
-date: "2023-05-11"
-categories: 
-  - "latest"
-  - "web-builders"
+description: Cloudways also offers a variety of plans to choose from
+excerpt: Cloudways also offers a variety of plans to choose from
+date: "2023-05-19"
+category: Web Hosting
 ---
 
 Cloudways is a managed cloud hosting platform that offers a wide range of features and services for WordPress users. It is a good option for users who want a reliable and scalable hosting solution without having to worry about the technical details.
