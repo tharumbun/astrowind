@@ -11,6 +11,10 @@ export const headerData = {
         },
         {
           text: 'How to',
+          href: getPermalink('/category/web-builders'),
+        },
+        {
+          text: 'How to',
           href: getPermalink('/category/howto'),
         },
       ],
