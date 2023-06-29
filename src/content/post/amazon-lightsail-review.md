@@ -1,9 +1,9 @@
 ---
 title: "Amazon Lightsail review"
-date: "2023-05-05"
-category: Web hosting
-tags:
-  - Lightsail
+description: Lightsail offers a variety of VPSs to choose from
+excerpt: Lightsail offers a variety of VPSs to choose from
+date: "2023-05-19"
+category: Web Hosting
 ---
 
 Amazon Lightsail is a cloud computing service that provides virtual private servers (VPSs), containers, storage, databases, and networking. It is designed to be easy to use and affordable, making it a good choice for small businesses and individuals who are new to cloud computing.
