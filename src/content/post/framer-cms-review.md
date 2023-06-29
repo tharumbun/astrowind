@@ -1,8 +1,9 @@
 ---
 title: "Framer review"
-date: "2023-06-01"
-categories: 
-  - "latest"
+description: A powerful tool that allows you to manage content for your website or app
+excerpt: A powerful tool that allows you to manage content for your website or app
+date: "2023-05-19"
+category: Web Builders
 ---
 
 [Framer](https://www.framer.com/) is a powerful tool that allows you to manage content for your website or app. It's easy to use and has a wide range of features, making it a great option for both beginners and experienced users.
