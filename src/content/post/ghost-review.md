@@ -1,8 +1,11 @@
 ---
-title: "Ghost review"
-date: "2023-05-03"
-categories: 
-  - "latest"
+title: "Ghost review
+description: One of the best things about Ghost is its focus on speed
+excerpt: One of the best things about Ghost is its focus on speed
+date: "2023-05-19"
+category: Web Builders
+tags:
+  - Ghost
 ---
 
 Ghost is a modern, open-source content management system (CMS) that is designed for professional publishers. It is built on top of Node.js and Ember.js, and it offers a wide range of features that make it ideal for creating high-quality, user-friendly websites and blogs.
