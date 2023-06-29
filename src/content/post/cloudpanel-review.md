@@ -1,8 +1,9 @@
 ---
 title: "CloudPanel review"
+description: It is built on a high-performance technology stack and offers a suite of security
+excerpt: It is built on a high-performance technology stack and offers a suite of security
 date: "2023-05-19"
-categories: 
-  - "latest"
+category: Web Hosting
 ---
 
 CloudPanel is a free and modern server control panel that makes it easy to manage your cloud server. It is built on a high-performance technology stack and offers a suite of security features to keep your server safe.
