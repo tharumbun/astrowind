@@ -1,9 +1,9 @@
 ---
 title: "Hugo review"
-date: "2023-05-14"
-category: Reviews
-tags:
-  - Hugo
+description: Hugo is one of the fastest static site generators available
+excerpt: Hugo is one of the fastest static site generators available
+date: "2023-05-19"
+category: Web Builders
 ---
 
 ### Hugo: a fast, powerful, and flexible static site Generator
