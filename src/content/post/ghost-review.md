@@ -1,5 +1,5 @@
 ---
-title: "Ghost review
+title: "Ghost review"
 description: One of the best things about Ghost is its focus on speed
 excerpt: One of the best things about Ghost is its focus on speed
 date: "2023-05-19"
