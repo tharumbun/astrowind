@@ -1,8 +1,9 @@
 ---
 title: "Contabo review"
-date: "2023-05-30"
-categories: 
-  - "latest"
+description: A great choice for budget-minded webmasters
+excerpt: A great choice for budget-minded webmasters
+date: "2023-05-19"
+category: Web Builders
 ---
 
 Contabo is a web hosting provider that offers a variety of hosting solutions for businesses and individuals. Their services include shared hosting, VPS hosting, and dedicated servers. [Contabo](https://contabo.com/en) is known for their affordable prices, reliable uptime, and excellent customer support.
