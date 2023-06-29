@@ -1,8 +1,9 @@
 ---
 title: "Webdock review"
-date: "2023-05-30"
-categories: 
-  - "latest"
+description: 11ty is a static site generator that is designed to be simple and powerful
+excerpt: 11ty is a static site generator that is designed to be simple and powerful
+date: "2023-05-19"
+category: Web builders
 ---
 
 Webdock is a web hosting provider that offers a variety of hosting solutions for developers and businesses. Their services include shared hosting, VPS hosting, and dedicated servers. [Webdock](https://webdock.io/en) is known for their high-quality performance, reliable uptime, and excellent customer support.
