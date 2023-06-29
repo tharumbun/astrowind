@@ -1,9 +1,9 @@
 ---
 title: "DigitalOcean review"
-date: "2023-05-05"
-categories: 
-  - "hosting"
-  - "latest"
+description: The simplicity and ease of use make it ideal for beginner developers
+excerpt: The simplicity and ease of use make it ideal for beginner developers
+date: "2023-05-19"
+category: Web Hosting
 ---
 
 DigitalOcean for hosting a WordPress site:
