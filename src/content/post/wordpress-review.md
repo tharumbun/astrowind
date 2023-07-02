@@ -540,34 +540,6 @@ Ultimately, the best way to decide which API is right for you is to try both of 
 - Fetch data from WordPress using GraphQL.
 - Render your Astro pages with the data from WordPress.
 
-Here are the steps in more detail:
-
-Install Astro. To install Astro, you can use the following command:
-
-Code snippet npm install astro Use code with caution. Learn more Install the WP GraphQL plugin in WordPress. To install the WP GraphQL plugin, you can use the following command:
-
-Code snippet composer create-project wp-graphql/wp-graphql Use code with caution. Learn more Create a GraphQL endpoint in WordPress. Once you have installed the WP GraphQL plugin, you will need to create a GraphQL endpoint in WordPress. You can do this by adding the following code to your wp-config.php file:
-
-Code snippet add\_action( 'init', function() { \\WPGraphQL\\init(); } ); Use code with caution. Learn more Create an Astro project. To create an Astro project, you can use the following command:
-
-Code snippet npx create-astro-app my-astro-project Use code with caution. Learn more This will create a new directory called my-astro-project with all the files you need to start building your Astro website.
-
-Fetch data from WordPress using GraphQL. To fetch data from WordPress using GraphQL, you can use the following code:
-
-Code snippet import { graphql } from 'astro';
-
-export const query = graphql\` query { posts { title content } } \`; Use code with caution. Learn more This code will fetch all the posts from WordPress and return them as a JSON object.
-
-Render your Astro pages with the data from WordPress. To render your Astro pages with the data from WordPress, you can use the following code:
-
-Code snippet import { render } from 'astro';
-
-export const HomePage = () => { const { posts } = useQuery(query);
-
-return ( <div> <h1>Welcome to my website!</h1> {posts.map((post) => ( <article key={post.id}> <h2>{post.title}</h2> <p>{post.content}</p> </article> ))} </div> ); };
-
-Use code with caution. Learn more
-
 This code will render a page with a list of all the posts from WordPress.
 
 Once you have completed these steps, you will have a working Astro website that uses WordPress as a headless CMS. You can now start adding content to your website and customizing the design.
