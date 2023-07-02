@@ -16,8 +16,7 @@ The most lightweight and fastest WordPress themes:
 
 - [Kenzie](https://wordpress.org/themes/kenzie/) By [Joop Laan / Perky Design](https://perky.design/)
   is a duo tone WordPress theme. Only background and foreground colors are used. You can see this blog, [TheFifty9](https://thefifty9.com/), as an example.
-
-src="https://i0.wp.com/themes.svn.wordpress.org/kenzie/1.1.1/screenshot.png"
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://i0.wp.com/themes.svn.wordpress.org/kenzie/1.1.1/screenshot.png) "Kenzie WordPress theme")
   
 - **GeneratePress:** GeneratePress is a lightweight and customizable theme that is perfect for any type of website. It is free to download and use.
 - **Astra:** Astra is another lightweight and customizable theme that is perfect for any type of website. It is also free to download and use.
