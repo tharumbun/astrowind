@@ -6,8 +6,8 @@ date: "2023-07-01"
 category: Reviews
 ---
 
-Social media and email newsletters are both powerful marketing tools, but they have different strengths and weaknesses. 
-Social media and email newsletters are two popular tools used for communication and marketing purposes, but they have distinct characteristics and serve different purposes. Let's compare them.
+Social media and [email newsletters](https://kokitree.com/posts/email-newsletter-platforms) are both powerful marketing tools, but they have different strengths and weaknesses. 
+Both are two popular tools used for communication and marketing purposes, but they have distinct characteristics and serve different purposes. Let's compare them.
 
 Here is a comparison of the two:
 
@@ -32,6 +32,8 @@ Here is a comparison of the two:
     * Smaller reach: Your email list is typically smaller than your social media following.
     * Spam filters: Your emails may be filtered as spam, which can reduce your deliverability rates.
     * Unsubscribes: Email subscribers are more likely to unsubscribe from your list than social media followers.
+
+[Beehiiv review](https://kokitree.com/posts/beehiiv-review)
 
 **Which is better?**
 
