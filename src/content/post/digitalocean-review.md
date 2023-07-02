@@ -1,8 +1,8 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "DigitalOcean review"
 description: The simplicity and ease of use make it ideal for beginner developers
 excerpt: The simplicity and ease of use make it ideal for beginner developers
-date: "2023-05-19"
 category: Web Hosting
 ---
 
