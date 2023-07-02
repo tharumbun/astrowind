@@ -42,6 +42,8 @@ Content creators: Hugo's simplicity and ease of use make it appealing to content
 
 Bloggers: Hugo's design and features make it an excellent choice for bloggers who prefer static websites. It enables them to create fast and lightweight blogs with customizable themes, easy content organization, and built-in features for managing tags, categories, and archives.
 
+[Building My Hugo Website as a Noob](https://janezhang.ca/posts/building-website-with-hugo/)
+
 Small businesses and personal websites: Hugo is suitable for small businesses and individuals who want to create a professional-looking website without the need for a database or complex server setup. Its speed, security, and simplicity make it an attractive option for those who value performance and low maintenance.
 
 Documentation sites: Hugo's ability to generate static documentation sites with a hierarchical structure and cross-referencing capabilities makes it an ideal choice for developers and technical writers who need to publish extensive documentation for their projects or APIs.
