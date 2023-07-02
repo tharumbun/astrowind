@@ -1,9 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Astro review"
 description: It is a static site generator that can be used to create websites that are both fast and SEO-friendly
 excerpt: It is a static site generator that can be used to create websites that are both fast and SEO-friendly
-date: "2023-05-19"
-category: Reviews
+category: Web Builders
 tags:
   - Astro
 ---
@@ -120,55 +120,10 @@ If you're looking for a fast, lightweight, and flexible SSG, then Astro is a goo
 
 ### How to launch an Astro blog
 
-To deploy an Astro blog using [Cloudflare Pages](https://kokitree.com/posts/cloudflare-pages-review/) (a JAMstack platform for frontend developers to collaborate and deploy websites) and GitHub, you will need to:
+To deploy an Astro blog using [Cloudflare Pages](https://kokitree.com/posts/cloudflare-pages-review/) (a JAMstack platform for frontend developers to collaborate and deploy websites) and GitHub.
 
-1\. Create a Cloudflare account and a GitHub account. 2. Create a new repository on GitHub for your Astro blog. 3. Clone the repository to your local machine. 4. Install the Astro CLI. 5. Create an Astro project. 6. Write your blog posts. 7. Build your blog. 8. Deploy your blog to Cloudflare Pages.
-
-Here are the steps in more detail:
-
-1\. Create a Cloudflare account and a GitHub account.
-
-Go to and create a Cloudflare account. Then, go to and create a GitHub account.
-
-2\. Create a new repository on GitHub for your Astro blog.
-
-In your GitHub account, go to the "Repositories" page and click the "New" button. Enter a name for your repository and select the "Public" option. Then, click the "Create repository" button.
-
-3\. Clone the repository to your local machine.
-
-In your terminal, run the following command to clone the repository to your local machine:
-
-\`\`\` git clone https://github.com//.git \`\`\`
-
-Replace \`\` and \`\` with your actual username and repository name.
-
-4\. Install the Astro CLI.
-
-In your terminal, run the following command to install the Astro CLI:
-
-\`\`\` npm install -g astro \`\`\`
-
-5\. Create an Astro project.
-
-In your terminal, run the following command to create an Astro project:
-
-\`\`\` astro create \`\`\`
-
-This will create a new directory called \`astro\` in your current directory.
-
-6\. Write your blog posts.
-
-In the \`astro\` directory, create a new file called \`index.astro\`. This is the main page of your blog. You can write your blog posts in the \`index.astro\` file using Astro's Markdown syntax.
-
-7\. Build your blog.
-
-In your terminal, run the following command to build your blog:
-
-\`\`\` astro build \`\`\`
-
-This will create a new directory called \`dist\` in your current directory. The \`dist\` directory contains the static files for your blog.
-
-8\. Deploy your blog to Cloudflare Pages.
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/F2pw1C9eKXw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+(In this course, you'll learn how build a custom Astro blog from scratch. You’ll learn how to work with Astro components, import and process data, pass props, minify images, build an RSS feed, and more.)
 
 In your Cloudflare dashboard, go to the "Pages" tab and click the "Create new site" button. Select the "Github Pages" option and enter the URL of your GitHub repository. Then, click the "Deploy" button.
 
