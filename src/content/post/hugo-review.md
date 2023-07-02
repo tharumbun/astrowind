@@ -1,8 +1,8 @@
 ---
+publishDate: 2023-01-08T00:00:00Z
 title: "Hugo review"
 description: Hugo is one of the fastest static site generators available
 excerpt: Hugo is one of the fastest static site generators available
-date: "2023-05-19"
 category: Web Builders
 ---
 
@@ -94,7 +94,6 @@ However, Hugo has some advantages, such as:
 It has a larger community of users and developers.
 It is more widely supported by hosting providers.
 
-
 ### Conclusion
 
 If you're looking for a fast, powerful, and flexible static site generator, then Hugo is a great option. It's a great choice for creating high-quality websites that are both fast and visually appealing.
@@ -107,3 +106,5 @@ Also good to read:
 [Hugo vs Astro - which static site generator](https://onebite.dev/hugo-vs-astro-which-static-site-generator-to-choose-in-2023/)
 
 [How to Create Your First Hugo Blog: a Practical Guide](https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/)
+
+[Is Hugo for everyone? A very steep learning curve?](https://news.ycombinator.com/item?id=24670439)
