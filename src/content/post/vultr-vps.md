@@ -1,9 +1,9 @@
 ---
+publishDate: 2023-03-22T00:00:00Z
 title: "Vultr VPS review"
 description: Vultr is one of the most popular cloud hosting providers on the market
 excerpt: Vultr is one of the most popular cloud hosting providers on the market
-date: "2023-03-22"
-category: Reviews
+category: Web Hosting
 tags:
   - Vultr
 ---
