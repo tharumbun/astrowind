@@ -16,13 +16,16 @@ SSGs are significantly faster than dynamic websites because they run expensive c
 
 There are many different SSGs available, each with its own strengths and weaknesses. Some of the most popular SSGs include:
 
+### Astro
+[Astro](https://kokitree.com/posts/astro-review) is a new web framework that is designed for speed. It is a static site generator that can be used to create websites that are both fast and SEO-friendly.
+
 ### Jekyll
 
 [Jekyll](https://jekyllrb.com/) is a static site generator written in Ruby. It is one of the most popular SSGs available, and it is easy to use and customize. Jekyll is also very fast, making it a good choice for blogs that need to load quickly.
 
 ### Hugo
 
-[Hugo](https://gohugo.io/) is a static site generator written in Go. It is known for its speed and performance. Hugo is also very extensible, with a large number of themes and plugins available.
+[Hugo](https://kokitree.com/posts/hugo-review) is a static site generator written in Go. It is known for its speed and performance. Hugo is also very extensible, with a large number of themes and plugins available.
 
 ### Hexo
 
@@ -86,7 +89,7 @@ As a result of these advantages, SSGs are becoming increasingly popular for a wi
 
 Here are some additional reasons why static site generators are the future:
 
-- **The rise of Jamstack:** Jamstack is a modern approach to building websites that uses static site generators, JavaScript, and APIs. Jamstack websites are fast, secure, and scalable, and they are becoming increasingly popular.
+- **The rise of Jamstack:** [Jamstack](https://jamstack.org/generators/) is a modern approach to building websites that uses static site generators, JavaScript, and APIs. Jamstack websites are fast, secure, and scalable, and they are becoming increasingly popular.
 - The increasing popularity of headless CMSs: Headless CMSs are content management systems that do not generate HTML. Instead, they provide APIs that can be used to fetch content from any static site generator. This makes it easy to create and manage static websites, even if you are not a developer.
 - The growing demand for high-performance websites: Users expect websites to load quickly, and search engines rank websites that load quickly higher in search results. Static sites are typically much faster than dynamic sites, making them a good choice for websites that need to load quickly.
 
