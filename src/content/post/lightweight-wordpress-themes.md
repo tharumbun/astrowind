@@ -3,7 +3,7 @@ publishDate: 2023-05-20T00:00:00Z
 title: Lightweight WordPress themes
 description: The most lightweight and fastest WordPress themes
 excerpt: Even a lightweight theme on a powerful web server will not help much if
-category: Tutorials
+category: Reviews
 ---
 
 A lightweight WordPress theme is one of the most important factors in determining the speed of your website. In this list, I will outline some of the most lightweight and fastest themes for WordPress blogs and websites. These themes come with high-quality code to speed up your WordPress site. They are free to download and use.
