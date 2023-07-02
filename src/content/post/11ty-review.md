@@ -3,7 +3,7 @@ publishDate: 2023-05-19T00:00:00Z
 title: "11ty review"
 description: 11ty is a static site generator that is designed to be simple and powerful
 excerpt: 11ty is a static site generator that is designed to be simple and powerful
-category: Reviews
+category: Web Builders
 tags:
   - 11ty
 ---
@@ -52,7 +52,7 @@ Overall, 11ty is a great option for developers who want to create static website
 
 ### 11ty vs Astro
 
-11ty and [Astro](https://astro.build/) are both static site generators, but they have different strengths and weaknesses.
+11ty and [Astro](https://kokitree.com/posts/astro-review) are both static site generators, but they have different strengths and weaknesses.
 
 11ty is a more flexible tool, but it can be more difficult to learn. It supports a variety of templating languages, including Markdown, Handlebars, and Liquid. It also has a large plugin ecosystem, which allows you to add additional features to your site.
 
@@ -69,7 +69,7 @@ Here is a table comparing the two tools:
 | Learning curve | Steep | Gentle |
 | Best for | Sites that need to be highly flexible or sites that need to be built quickly | Sites that need to be fast and efficient |
 
-Ultimately, the best tool for you will depend on your specific needs. If you need a flexible tool that can be used to build a variety of static websites, then 11ty is a good choice. If you need a tool that is easy to learn and can be used to build fast and efficient static websites, then Astro is a good choice.
+Ultimately, the best static site generator for you will depend on your specific needs. If you need a flexible tool that can be used to build a variety of static websites, then 11ty is a good choice. If you need a tool that is easy to learn and can be used to build fast and efficient static websites, then Astro is a good choice.
 
 Good to know:
 
