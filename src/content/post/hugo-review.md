@@ -101,7 +101,7 @@ Hugo: Hugo is well-suited for static websites, blogs, documentation sites, and a
 WordPress: WordPress is versatile and can be used for a wide range of websites, including blogs, e-commerce stores, corporate websites, news portals, and more. Its dynamic nature makes it suitable for websites that require frequent updates and interactive features.
 
 ### Hugo vs Astro
-Astro has several advantages over Hugo, including:
+[Astro](https://kokitree.com/posts/astro-review) has several advantages over Hugo, including:
 
 It is faster to build and deploy sites.
 It has a more modern API.
