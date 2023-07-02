@@ -14,9 +14,9 @@ One of the best things about Ghost is its focus on speed and performance. Ghost 
 
 Another great feature of Ghost is its flexibility. Ghost can be used to create a wide variety of websites, from simple blogs to complex news sites. It is also easy to customize Ghost to match your specific needs.
 
-Ghost is also very secure. It is built with security in mind, and it comes with a number of features that help to protect your website from attack. This is important for any publisher who wants to ensure that their website is safe and secure.
+[Ghost](https://ghost.org/) is also very secure. It is built with security in mind, and it comes with a number of features that help to protect your website from attack. This is important for any publisher who wants to ensure that their website is safe and secure.
 
-### Features of Ghost CMS
+**Features of Ghost**
 
 Speed: Ghost sites are built to load quickly, even on slow connections. This is important for both publishers and users, as it ensures that everyone has a good experience when visiting a Ghost-powered website.
 
