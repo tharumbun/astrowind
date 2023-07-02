@@ -119,6 +119,11 @@ It is more widely supported by hosting providers.
 If you're looking for a fast, powerful, and flexible static site generator, then Hugo is a great option. It's a great choice for creating high-quality websites that are both fast and visually appealing.
 
 Also good to read:
+
+[Hugo - Static Site Generator | YouTube Tutorial by Giraffe Academy](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+
+[Create A Website For 12$ by Chris Stayte](https://www.youtube.com/playlist?list=PL-Kz5P-mYdMgAJDmRJquyMHfdaIOD-3oj)
+
 [The “staying with Hugo” post, three years later](https://www.brycewray.com/posts/2022/07/staying-hugo-post-three-years-later/)
 
 [Eleventy and Hugo: comparing and contrasting](https://www.brycewray.com/posts/2020/12/eleventy-hugo-comparing-contrasting/)
