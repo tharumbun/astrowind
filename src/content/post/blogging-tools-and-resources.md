@@ -1,8 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Blogging tools and resources"
-date: "2023-06-01"
-categories: 
-  - "latest"
+description: We will explore a range of essential blogging tools and resources
+excerpt: we will explore a range of essential blogging tools and resources
+category: Reviews
 ---
 
 In the age of digital communication, blogging has emerged as a powerful medium for individuals and businesses to share their ideas, experiences, and expertise with the world.

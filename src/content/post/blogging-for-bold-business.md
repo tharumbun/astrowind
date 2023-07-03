@@ -1,8 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Blogging for business: a mini guide"
-date: "2023-01-09"
-categories: 
-  - "latest"
+description: In this post, I'm going to discuss the advantages of blogging
+excerpt: In this post, I'm going to discuss the advantages of blogging
+category: Reviews
 ---
 
 You may keep asking: why should I start blogging? Or if you're running a business, what are the benefits of having a blog? In this post, I'm going to discuss the advantages of blogging, from personal branding to online visibility for a business.
