@@ -1,8 +1,8 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "aaPanel review"
 description: A free and open-source web hosting control panel
 excerpt: A free and open-source web hosting control panel that is designed to make it easy to manage your websites and servers.
-pubDate: "2023-05-19"
 category: Web Hosting
 ---
 
