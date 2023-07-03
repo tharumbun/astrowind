@@ -1,8 +1,8 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Amazon Lightsail review"
 description: Lightsail offers a variety of VPSs to choose from
 excerpt: Lightsail offers a variety of VPSs to choose from
-date: "2023-05-19"
 category: Web Hosting
 ---
 

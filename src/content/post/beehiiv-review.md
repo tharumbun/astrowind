@@ -1,8 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Beehiiv review"
-date: "2023-05-15"
-categories: 
-  - "latest"
+description:  It offers a variety of features that make it easy to create
+excerpt:  It offers a variety of features that make it easy to create
+category: Reviews
 ---
 
 Beehiiv is a new email newsletter platform that is designed for creators. It is a highly effective email newsletter platform that offers several advantages for businesses and individuals. It offers a variety of features that make it easy to create and send beautiful newsletters, including a drag-and-drop editor, a built-in wysiwyg editor, and a variety of templates to choose from.

@@ -1,7 +1,9 @@
 ---
-title: "ARM-powered VPSs: the future is here"
-date: "2023-05-20"
-category: Web hosting
+publishDate: 2023-05-19T00:00:00Z
+title: "ARM-powered VPSs"
+description: ARM VPSs offer a number of advantages over traditional x86 VPSs
+excerpt: ARM VPSs offer a number of advantages over traditional x86 VPSs
+category: Web Hosting
 ---
 
 An ARM VPS is a virtual private server that uses an ARM processor. ARM processors are typically found in mobile devices and embedded systems, but they are becoming increasingly popular for use in VPSs. ARM VPSs offer a number of advantages over traditional x86 VPSs, including:

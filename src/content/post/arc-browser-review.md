@@ -1,11 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Arc web browser review"
 description: Two things that interest me the most about Arc browser is its minimalistic user interface and ad-blocking feature
 excerpt: Two things that interest me the most about Arc browser is its minimalistic user interface and ad-blocking feature
-date: "2023-06-18"
 category: Reviews
-tags:
-  - Arc Browser
 ---
 
 As a blogger, you may have a few web browser installed on your computer. One of them is your default browser. For many years, Mozilla Firefox and Google Chrome are two top browsers I've used. Recently, there is a new browser called Arc. After signing up for an invite to test its beta version, I have a chance to have it. 
