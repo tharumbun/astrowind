@@ -1,3 +1,12 @@
+---
+publishDate: 2023-05-19T00:00:00Z
+title: "Blockchain domain name"
+description: Blockchain domain names can be used for a variety of purposes
+excerpt: Blockchain domain names can be used for a variety of purposes
+date: "2023-05-19"
+category: Reviews
+---
+
 A blockchain domain name is a domain name that is stored on a blockchain, such as the Ethereum blockchain. This means that the domain name is not controlled by a central authority, such as a domain name registrar. Instead, it is stored on a distributed ledger, which makes it more secure and resistant to censorship.
 
 Blockchain domain names can be used for a variety of purposes, including:

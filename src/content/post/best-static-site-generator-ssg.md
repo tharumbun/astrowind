@@ -1,4 +1,5 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "The best static site generator"
 description: SSG is a tool that takes content and code as input and produces a static website as output
 excerpt: SSG is a tool that takes content and code as input and produces a static website as output
@@ -96,6 +97,7 @@ Here are some additional reasons why static site generators are the future:
 Overall, static site generators are a powerful tool that can be used to create high-performance, secure, and cost-effective websites. As the popularity of Jamstack and headless CMSs continues to grow, static site generators are likely to become even more popular in the future.
 
 Also good to read: 
+
 [State of the Web: Static Site Generators](https://byteofdev.com/posts/static-site-generators/)
 
 [Top 5 Static Site Generators (and When to Use Them)](https://kinsta.com/blog/static-site-generator/)

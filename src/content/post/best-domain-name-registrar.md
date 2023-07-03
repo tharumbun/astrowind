@@ -1,11 +1,10 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Domain name registrars"
 description: There are several reputable domain name registrars
 excerpt: There are several reputable domain name registrars
 date: "2023-06-17"
 category: Reviews
-tags:
-  - Porkbun
 ---
 
 There are several reputable domain name registrars available, each offering a range of services and features. Here are some of the best domain name registrars known for their reliability, customer support, pricing, and additional features:
@@ -38,5 +37,3 @@ Here are some of the features and benefits of Cloudflare Registrar:
 * **DNSSEC:** Cloudflare Registrar supports DNSSEC, which is a security protocol that helps to protect your domain name from DNS spoofing and other attacks.
 * **Easy to use:** Cloudflare Registrar is a user-friendly platform that makes it easy to register and manage your domain names.
 * **Affordable:** Cloudflare Registrar offers competitive prices for domain name registration.
-
-When choosing a domain name registrar, it is important to consider your needs and budget. Some factors to consider include:
