@@ -13,7 +13,7 @@ What I like the most about this super simple headless CMS is that I just need to
 
 ### Front Matter: A Stellar Headless CMS for Astro Static Site Generator
 
-Front Matter is a headless CMS that is specifically designed to work with Astro. It is a local-first CMS, which means that you can manage your content in a code editor, without having to use a web-based interface. This makes it a good choice for developers who want more control over their content.
+Front Matter is a headless CMS that is specifically designed to work with [Astro](https://kokitree.com/posts/astro-review). It is a local-first CMS, which means that you can manage your content in a code editor, without having to use a web-based interface. This makes it a good choice for developers who want more control over their content.
 
 Front Matter is also a very lightweight CMS, which means that it won't add a lot of bloat to your Astro project. This is important for performance, especially if you are using a lot of dynamic content.
 
