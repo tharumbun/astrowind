@@ -12,6 +12,25 @@ Front Matter is a remarkable headless Content Management System (CMS) that perfe
 
 ### Front Matter: A Stellar Headless CMS for Astro Static Site Generator
 
+Front Matter is a headless CMS that is specifically designed to work with Astro. It is a local-first CMS, which means that you can manage your content in a code editor, without having to use a web-based interface. This makes it a good choice for developers who want more control over their content.
+
+Front Matter is also a very lightweight CMS, which means that it won't add a lot of bloat to your Astro project. This is important for performance, especially if you are using a lot of dynamic content.
+
+In terms of features, Front Matter offers a good range of what you would expect from a headless CMS. You can create and manage pages, posts, and collections. You can also add images, videos, and other media to your content.
+
+Front Matter is a good choice for static site generators like Astro. It is lightweight, easy to use, and offers a good range of features. However, it is not the only headless CMS that works with Astro. There are other options available, such as Contentful and ButterCMS.
+
+Here is a comparison of Front Matter with some other popular headless CMSes:
+
+| CMS | Pros | Cons |
+|---|---|---|
+| Front Matter | Lightweight, easy to use, good range of features | Local-only, not as many integrations as other CMSes |
+| Contentful | Wide range of features, many integrations | Can be complex to use, not as lightweight as Front Matter |
+| ButterCMS | Easy to use, good range of features | Not as many integrations as Contentful |
+
+Ultimately, the best headless CMS for you will depend on your specific needs and requirements. If you are looking for a lightweight, easy-to-use CMS with a good range of features, then Front Matter is a good option. However, if you need a CMS with more features or integrations, then you may want to consider other options.
+
+
 User-Friendly Interface:
 Front Matter's user interface is intuitive and user-friendly, designed to streamline content management tasks. The dashboard offers a clean and organized layout, allowing developers to effortlessly create, update, and manage content. The straightforward navigation and well-structured interface make it a breeze to work with, even for users with minimal technical expertise.
 
