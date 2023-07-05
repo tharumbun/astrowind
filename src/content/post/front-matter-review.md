@@ -6,9 +6,10 @@ excerpt: Front Matter excels in simplifying the content creation and editing pro
 category: Web Builders
 ---
 
-
-Introduction:
 Front Matter is a remarkable headless Content Management System (CMS) that perfectly complements Astro, the static site generator. With its seamless integration and powerful features, [Front Matter](https://frontmatter.codes/) significantly enhances the development experience, making it a go-to choice for developers seeking efficient content management.
+
+What I like the most about this super simple headless CMS is that I just need to install the extension in [Visual Studio Code](https://code.visualstudio.com/).
+
 
 ### Front Matter: A Stellar Headless CMS for Astro Static Site Generator
 
