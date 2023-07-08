@@ -1,9 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Deno review"
-date: "2023-06-16"
-category: Reviews
-tags:
-  - Deno
+description: Deno is a new runtime environment for JavaScript
+excerpt: Deno is a new runtime environment for JavaScript
+category: Web Hosting
 ---
 
 ## Deno: A Modern Runtime for JavaScript and TypeScript

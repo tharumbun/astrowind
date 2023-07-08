@@ -1,9 +1,9 @@
 ---
+publishDate: 2023-05-19T00:00:00Z
 title: "Cloudflare Pages review"
-date: "2023-05-11"
-categories: 
-  - "hosting"
-  - "latest"
+description: Cloudflare Pages offers a free tier that includes unlimited builds
+excerpt: Cloudflare Pages offers a free tier that includes unlimited builds 
+category: Web Hosting
 ---
 
 Cloudflare Pages is a serverless platform that makes it easy to deploy and host static websites and serverless functions. It is a great option for developers who want to deploy their websites quickly and easily without having to worry about managing servers or infrastructure.
