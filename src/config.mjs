@@ -32,7 +32,7 @@ const CONFIG = {
     postsPerPage: 11,
 
     post: {
-      permalink: 'posts/%slug%', // Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
+      permalink: '/posts/%slug%', // Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
       noindex: false,
       disabled: false,
     },
