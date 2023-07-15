@@ -38,7 +38,7 @@ Here are some of the features and benefits of Cloudflare Registrar:
 * **Easy to use:** Cloudflare Registrar is a user-friendly platform that makes it easy to register and manage your domain names.
 * **Affordable:** Cloudflare Registrar offers competitive prices for domain name registration.
 
-### Ways to get a domain name that is about to expire
+### How to get a domain name that is about to expire
 
 There are a few ways to get a domain name that is about to expire.
 
@@ -58,3 +58,22 @@ Here are some tips for getting an expired domain name:
 * **Be patient.** It may take some time for the domain name to expire and be transferred to you.
 * **Be prepared to pay a premium.** Expired domain names are often in high demand, so you may have to pay a premium for the domain name that you want.
 * **Do your research.** Before you purchase an expired domain name, make sure that the domain name is available for registration in the country or region where you want to use it.
+
+
+### Benefits to owning an expired, old domain name
+
+There are several benefits to owning an expired, old domain name.
+
+* **SEO benefits.** Search engines often favor older, more established domains. This is because older domains have typically had more time to build up backlinks and authority. As a result, expired domain names can often help to improve your website's search engine ranking.
+* **Established audience.** If the expired domain name has previously been used, it may already have an established audience. This means that you may be able to inherit some of the traffic that the domain name used to receive.
+* **Branding potential.** If the expired domain name has a good brand name, it can be a valuable asset for your business. A good brand name can help to build trust and recognition with your customers.
+
+However, there are also some risks associated with buying expired domain names. For example, the domain name may have been penalized by search engines for spam or other bad practices. As a result, you may need to work to improve the domain name's reputation before you can see any benefits.
+
+Overall, there are both benefits and risks associated with buying expired domain names. If you are considering buying an expired domain name, it is important to do your research and carefully evaluate the potential risks and rewards.
+
+Here are some additional things to consider when buying an expired domain name:
+
+* **The domain name's history.** Check the domain name's history to see how it has been used in the past. If the domain name has been penalized by search engines, it may be difficult to improve its ranking.
+* **The domain name's backlink profile.** Backlinks are links from other websites to your website. Backlinks can help to improve your website's search engine ranking. Check the domain name's backlink profile to see how many backlinks it has and from what websites.
+* **The domain name's age.** As mentioned earlier, older domain names are often favored by search engines. However, there is no guarantee that an old domain name will have a good ranking.
