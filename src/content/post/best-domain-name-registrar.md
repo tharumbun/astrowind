@@ -37,3 +37,24 @@ Here are some of the features and benefits of Cloudflare Registrar:
 * **DNSSEC:** Cloudflare Registrar supports DNSSEC, which is a security protocol that helps to protect your domain name from DNS spoofing and other attacks.
 * **Easy to use:** Cloudflare Registrar is a user-friendly platform that makes it easy to register and manage your domain names.
 * **Affordable:** Cloudflare Registrar offers competitive prices for domain name registration.
+
+### Ways to get a domain name that is about to expire
+
+There are a few ways to get a domain name that is about to expire.
+
+* **Place a back order.** This is the most common way to get an expired domain name. When you place a back order, you are essentially putting your name in line to purchase the domain name if it expires. If no one else places a back order on the domain name, it will be automatically transferred to you.
+* **Participate in an auction.** If someone else places a back order on the domain name, the domain name will go up for auction. You can bid on the domain name in the auction, and if you win the auction, you will be the new owner of the domain name.
+* **Contact the current owner.** If you know who the current owner of the domain name is, you can contact them directly and try to negotiate a purchase price.
+
+Here are the steps on how to get an expired domain name:
+
+1. Find the domain name that you want to purchase. You can use a domain name expiry checker to find domain names that are about to expire.
+2. Place a back order on the domain name. You can do this through a domain registrar, such as GoDaddy or Namecheap.
+3. Wait for the domain name to expire. Once the domain name expires, it will be transferred to you if you have placed a back order on it.
+4. Configure the domain name. Once you have the domain name, you will need to configure it with your web hosting provider.
+
+Here are some tips for getting an expired domain name:
+
+* **Be patient.** It may take some time for the domain name to expire and be transferred to you.
+* **Be prepared to pay a premium.** Expired domain names are often in high demand, so you may have to pay a premium for the domain name that you want.
+* **Do your research.** Before you purchase an expired domain name, make sure that the domain name is available for registration in the country or region where you want to use it.
