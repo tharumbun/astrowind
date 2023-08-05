@@ -65,3 +65,6 @@ Good to know:
 When you deploy a new VPS, you should opt to have the IP v4 as you'll need to use it when you spin up a new server on Spinupwp.
 
 To get started with Spinupwp, you can use [this referral link](https://spinupwp.com/?referral=x3pL4A0542) to get $50 in credit 30 days after signing up.
+
+Good to read: 
+[How to use Frontity with SpinupWP](https://frontity.org/blog/how-to-use-frontity-with-spinupwp/)
