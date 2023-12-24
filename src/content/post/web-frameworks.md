@@ -1,11 +1,9 @@
 ---
 publishDate: 2023-12-24T00:00:00Z
 title: "Web frameworks"
-description: Here are some key trends to expect in web frameworks in 2024
-excerpt: Here are some key trends to expect in web frameworks in 2024
+description: Here are some key trends to expect in web frameworks
+excerpt: Here are some key trends to expect in web frameworks
 category: Web Builders
-tags:
-  - 
 ---
 
  Here are some key trends to expect in web frameworks in 2024:
