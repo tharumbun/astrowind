@@ -13,6 +13,7 @@
     "lint:eslint": "eslint . --ext .js,.ts,.astro"
   },
   "devDependencies": {
+    "astro": "latest",
     "@astrojs/image": "^0.18.0",
     "@astrojs/mdx": "^0.19.4",
     "@astrojs/partytown": "^1.2.2",
